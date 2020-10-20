@@ -24,4 +24,4 @@ void testcase() {
 ```
 where cachePower = 8 implies cachesize of 2^8 B, BlockPower = 5 implies blocksize of 2^5 B and cachetype that can be DirectMapped, Fully Associative or Set Asscociative with associativity = setSize variable. 
 # How to Run
-Insert your input code of form described in example in UnitTestCases.Java. Run "bash run.sh UnitTestCases.Java", the output will be stored in Results.obj. 
+Insert your input code of form described in example in UnitTestCases.Java. Run **bash run.sh UnitTestCases.Java**, the output will be stored in Results.obj. 
